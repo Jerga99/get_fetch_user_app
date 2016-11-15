@@ -1,5 +1,7 @@
 # JuniorFrontendTest
 
+APP - http://filipjerga.com/gitapp/src/index.html
+
 1. App is fully working and fetching data from github.
 2. User can search users of github and list repositories with number of forks and watchers.
 3. User can click repository that will navigate him to actual Git repository
